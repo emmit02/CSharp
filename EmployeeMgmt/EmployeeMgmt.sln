@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostelMgmtLearn", "HostelMgmtLearn\HostelMgmtLearn.csproj", "{051F3D36-F31B-4ECF-AB2D-36DA01B0A47E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMgmt", "EmployeeMgmt\EmployeeMgmt.csproj", "{D0C42292-70E2-4F5C-9DF8-230B524EADDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{051F3D36-F31B-4ECF-AB2D-36DA01B0A47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{051F3D36-F31B-4ECF-AB2D-36DA01B0A47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{051F3D36-F31B-4ECF-AB2D-36DA01B0A47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{051F3D36-F31B-4ECF-AB2D-36DA01B0A47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C42292-70E2-4F5C-9DF8-230B524EADDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C42292-70E2-4F5C-9DF8-230B524EADDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C42292-70E2-4F5C-9DF8-230B524EADDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C42292-70E2-4F5C-9DF8-230B524EADDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D3926FF8-9CBA-47A0-A5B4-8BF8D1AF3ABA}
+		SolutionGuid = {FE6F79F2-CB8A-45A1-A448-1F2075D16293}
 	EndGlobalSection
 EndGlobal
