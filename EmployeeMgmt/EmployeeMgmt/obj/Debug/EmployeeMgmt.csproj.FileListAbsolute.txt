@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\bin\Debug\EmployeeMgmt.exe.config
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\bin\Debug\EmployeeMgmt.exe
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\bin\Debug\EmployeeMgmt.pdb
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.Form1.resources
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.Properties.Resources.resources
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.exe
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.pdb
