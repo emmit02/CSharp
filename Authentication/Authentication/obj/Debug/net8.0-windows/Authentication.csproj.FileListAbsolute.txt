@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Authentication\Authentication\bin\Debug\net8.0-windows\Authentication.exe
+C:\Users\DELL\source\repos\Authentication\Authentication\bin\Debug\net8.0-windows\Authentication.deps.json
+C:\Users\DELL\source\repos\Authentication\Authentication\bin\Debug\net8.0-windows\Authentication.runtimeconfig.json
+C:\Users\DELL\source\repos\Authentication\Authentication\bin\Debug\net8.0-windows\Authentication.dll
+C:\Users\DELL\source\repos\Authentication\Authentication\bin\Debug\net8.0-windows\Authentication.pdb
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.Form1.resources
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.Properties.Resources.resources
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.dll
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\refint\Authentication.dll
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.pdb
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\Authentication.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Authentication\Authentication\obj\Debug\net8.0-windows\ref\Authentication.dll
