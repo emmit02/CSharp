@@ -8,3 +8,5 @@ C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.cspr
 C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.exe
 C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.pdb
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.RegisterForm.resources
+C:\Users\DELL\source\repos\EmployeeMgmt\EmployeeMgmt\obj\Debug\EmployeeMgmt.MainForm.resources

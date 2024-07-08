@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\EmployeeMgmt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0C42292-70E2-4F5C-9DF8-230B524EADDB}|EmployeeMgmt\\EmployeeMgmt.csproj|c:\\users\\dell\\source\\repos\\employeemgmt\\employeemgmt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0C42292-70E2-4F5C-9DF8-230B524EADDB}|EmployeeMgmt\\EmployeeMgmt.csproj|c:\\users\\dell\\source\\repos\\employeemgmt\\employeemgmt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C42292-70E2-4F5C-9DF8-230B524EADDB}|EmployeeMgmt\\EmployeeMgmt.csproj|solutionrelative:employeemgmt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C42292-70E2-4F5C-9DF8-230B524EADDB}|EmployeeMgmt\\EmployeeMgmt.csproj|c:\\users\\dell\\source\\repos\\employeemgmt\\employeemgmt\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0C42292-70E2-4F5C-9DF8-230B524EADDB}|EmployeeMgmt\\EmployeeMgmt.csproj|solutionrelative:employeemgmt\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C42292-70E2-4F5C-9DF8-230B524EADDB}|EmployeeMgmt\\EmployeeMgmt.csproj|C:\\Users\\DELL\\source\\repos\\EmployeeMgmt\\employeemgmt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0C42292-70E2-4F5C-9DF8-230B524EADDB}|EmployeeMgmt\\EmployeeMgmt.csproj|solutionrelative:employeemgmt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,14 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmployeeMgmt\\EmployeeMgmt\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeMgmt\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmployeeMgmt\\EmployeeMgmt\\MainForm.cs [Design]",
+              "RelativeToolTip": "EmployeeMgmt\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:48:36.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmployeeMgmt\\EmployeeMgmt\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "EmployeeMgmt\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmployeeMgmt\\EmployeeMgmt\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "EmployeeMgmt\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:50:51.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmployeeMgmt\\EmployeeMgmt\\Form1.cs",
               "RelativeDocumentMoniker": "EmployeeMgmt\\Form1.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmployeeMgmt\\EmployeeMgmt\\Form1.cs [Design]",
               "RelativeToolTip": "EmployeeMgmt\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T09:53:18.865Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-06T09:53:18.865Z"
             }
           ]
         }
