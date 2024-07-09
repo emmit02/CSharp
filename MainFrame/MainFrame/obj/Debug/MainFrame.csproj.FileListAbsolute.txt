@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\MainFrame\MainFrame\bin\Debug\MainFrame.exe.config
+C:\Users\DELL\source\repos\MainFrame\MainFrame\bin\Debug\MainFrame.exe
+C:\Users\DELL\source\repos\MainFrame\MainFrame\bin\Debug\MainFrame.pdb
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.Form1.resources
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.Properties.Resources.resources
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.exe
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.pdb
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.Dashboard.resources
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.AddEmployee.resources
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.Salary.resources
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.Login.resources
+C:\Users\DELL\source\repos\MainFrame\MainFrame\obj\Debug\MainFrame.RegisterForm.resources
