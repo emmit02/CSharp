@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\MainFrame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|c:\\users\\dell\\source\\repos\\mainframe\\mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainFrame\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +54,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "MainFrame\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\RegisterForm.cs",
+              "RelativeToolTip": "MainFrame\\RegisterForm.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwFEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:17:26.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "MainFrame\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "MainFrame\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:17:17.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Login.cs",
+              "RelativeDocumentMoniker": "MainFrame\\Login.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Login.cs",
+              "RelativeToolTip": "MainFrame\\Login.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFcAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:12:03.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Login.cs",
+              "RelativeDocumentMoniker": "MainFrame\\Login.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Login.cs [Design]",
+              "RelativeToolTip": "MainFrame\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:11:46.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "MainFrame\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\AddEmployee.cs",
+              "RelativeToolTip": "MainFrame\\AddEmployee.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:50:23.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "MainFrame\\EmployeeData.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\EmployeeData.cs",
+              "RelativeToolTip": "MainFrame\\EmployeeData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:47:53.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "MainFrame\\SQLQuery3.sql",
+              "ToolTip": "SQLQuery3.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T09:36:51.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "MainFrame\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "MainFrame\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:29:19.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Form1.cs",
+              "RelativeDocumentMoniker": "MainFrame\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Form1.cs [Design]",
+              "RelativeToolTip": "MainFrame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:30:37.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Salary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Salary.cs",
+              "RelativeDocumentMoniker": "MainFrame\\Salary.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Salary.cs [Design]",
+              "RelativeToolTip": "MainFrame\\Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:28:27.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Dashboard.cs",
+              "RelativeDocumentMoniker": "MainFrame\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Dashboard.cs [Design]",
+              "RelativeToolTip": "MainFrame\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:08:00.499Z"
             }
           ]
         }

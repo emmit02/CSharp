@@ -40,7 +40,25 @@ namespace MainFrame
 
         private void dashboard_btn_Click(object sender, EventArgs e)
         {
-             
+            
+        }
+
+        private void add_btn_Click(object sender, EventArgs e)
+        {
+            AddEmployee addemp = new AddEmployee();
+            addemp.Show();
+        }
+
+        private void salary_btn_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                salary1.Show();
+            }catch(Exception ex)
+            {
+                MessageBox.Show("Error: " + ex, "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
         }
     }
 }

@@ -41,9 +41,10 @@
             this.greet_user = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.salary2 = new MainFrame.Salary();
             this.dashboard1 = new MainFrame.Dashboard();
             this.salary1 = new MainFrame.Salary();
-            this.salary2 = new MainFrame.Salary();
+            this.dashboard2 = new MainFrame.Dashboard();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -148,6 +149,7 @@
             this.salary_btn.TabIndex = 4;
             this.salary_btn.Text = "SALARY";
             this.salary_btn.UseVisualStyleBackColor = false;
+            this.salary_btn.Click += new System.EventHandler(this.salary_btn_Click);
             // 
             // add_btn
             // 
@@ -167,6 +169,7 @@
             this.add_btn.TabIndex = 3;
             this.add_btn.Text = "ADD EMPLOYEE";
             this.add_btn.UseVisualStyleBackColor = false;
+            this.add_btn.Click += new System.EventHandler(this.add_btn_Click);
             // 
             // dashboard_btn
             // 
@@ -211,6 +214,7 @@
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.dashboard2);
             this.panel3.Controls.Add(this.salary2);
             this.panel3.Controls.Add(this.dashboard1);
             this.panel3.Controls.Add(this.salary1);
@@ -219,6 +223,13 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(875, 565);
             this.panel3.TabIndex = 2;
+            // 
+            // salary2
+            // 
+            this.salary2.Location = new System.Drawing.Point(0, 0);
+            this.salary2.Name = "salary2";
+            this.salary2.Size = new System.Drawing.Size(875, 565);
+            this.salary2.TabIndex = 2;
             // 
             // dashboard1
             // 
@@ -234,12 +245,12 @@
             this.salary1.Size = new System.Drawing.Size(875, 565);
             this.salary1.TabIndex = 0;
             // 
-            // salary2
+            // dashboard2
             // 
-            this.salary2.Location = new System.Drawing.Point(49, 215);
-            this.salary2.Name = "salary2";
-            this.salary2.Size = new System.Drawing.Size(875, 565);
-            this.salary2.TabIndex = 2;
+            this.dashboard2.Location = new System.Drawing.Point(0, 0);
+            this.dashboard2.Name = "dashboard2";
+            this.dashboard2.Size = new System.Drawing.Size(875, 565);
+            this.dashboard2.TabIndex = 3;
             // 
             // Form1
             // 
@@ -280,6 +291,7 @@
         private Salary salary1;
         private Dashboard dashboard1;
         private Salary salary2;
+        private Dashboard dashboard2;
     }
      
 }

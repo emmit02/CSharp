@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\bin\Debug\datagrid learn.exe.config
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\bin\Debug\datagrid learn.exe
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\bin\Debug\datagrid learn.pdb
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\obj\Debug\datagrid learn.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\obj\Debug\datagrid_learn.Form1.resources
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\obj\Debug\datagrid_learn.Properties.Resources.resources
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\obj\Debug\datagrid learn.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\obj\Debug\datagrid learn.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\obj\Debug\datagrid learn.exe
+C:\Users\DELL\source\repos\datagrid learn\datagrid learn\obj\Debug\datagrid learn.pdb

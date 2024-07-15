@@ -84,6 +84,7 @@
             this.signup_password.PasswordChar = '*';
             this.signup_password.Size = new System.Drawing.Size(295, 26);
             this.signup_password.TabIndex = 15;
+            this.signup_password.TextChanged += new System.EventHandler(this.signup_password_TextChanged);
             // 
             // label4
             // 
