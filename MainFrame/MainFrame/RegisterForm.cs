@@ -61,7 +61,7 @@ namespace MainFrame
                             checkUser.Parameters.AddWithValue("@user", signup_username.Text.Trim());
                             int count = (int)checkUser.ExecuteScalar(); 
                             if(count >= 1)
-                            {
+                            { 
                                 MessageBox.Show(signup_username.Text.Trim() + " is already taken", "Error Message",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
                             }
@@ -102,6 +102,11 @@ namespace MainFrame
                     }
                 }
             }
+        }
+
+        private void signup_password_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

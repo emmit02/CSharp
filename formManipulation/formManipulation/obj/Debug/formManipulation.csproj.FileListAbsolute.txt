@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\formManipulation\formManipulation\bin\Debug\formManipulation.exe.config
+C:\Users\DELL\source\repos\formManipulation\formManipulation\bin\Debug\formManipulation.exe
+C:\Users\DELL\source\repos\formManipulation\formManipulation\bin\Debug\formManipulation.pdb
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.Form1.resources
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.Properties.Resources.resources
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.exe
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.pdb
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.dataGridView.resources

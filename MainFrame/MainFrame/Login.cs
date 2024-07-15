@@ -94,5 +94,10 @@ namespace MainFrame
                 }
             }
         }
+
+        private void login_username_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }   
 }
