@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\bin\Debug\modernUIapp.exe.config
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\bin\Debug\modernUIapp.exe
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\bin\Debug\modernUIapp.pdb
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\obj\Debug\modernUIapp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\obj\Debug\modernUIapp.Properties.Resources.resources
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\obj\Debug\modernUIapp.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\obj\Debug\modernUIapp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\obj\Debug\modernUI.1DC6CD2F.Up2Date
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\obj\Debug\modernUIapp.exe
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\obj\Debug\modernUIapp.pdb
+C:\Users\DELL\source\repos\modernUIapp\modernUIapp\obj\Debug\modernUIapp.form.resources
