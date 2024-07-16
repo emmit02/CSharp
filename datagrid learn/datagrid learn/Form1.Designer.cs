@@ -41,13 +41,16 @@
             this.txt_id = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.btn_new = new System.Windows.Forms.Button();
+            this.lbl_checkemp = new System.Windows.Forms.Label();
+            this.rb_fresher = new System.Windows.Forms.RadioButton();
+            this.rb_exp = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_contacts)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_save
             // 
             this.btn_save.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(115)))), ((int)(((byte)(182)))), ((int)(((byte)(107)))));
-            this.btn_save.Location = new System.Drawing.Point(70, 255);
+            this.btn_save.Location = new System.Drawing.Point(70, 320);
             this.btn_save.Name = "btn_save";
             this.btn_save.Size = new System.Drawing.Size(75, 23);
             this.btn_save.TabIndex = 0;
@@ -133,7 +136,7 @@
             // btn_delete
             // 
             this.btn_delete.BackColor = System.Drawing.Color.Orange;
-            this.btn_delete.Location = new System.Drawing.Point(173, 293);
+            this.btn_delete.Location = new System.Drawing.Point(173, 358);
             this.btn_delete.Name = "btn_delete";
             this.btn_delete.Size = new System.Drawing.Size(75, 23);
             this.btn_delete.TabIndex = 8;
@@ -144,7 +147,7 @@
             // btn_update
             // 
             this.btn_update.BackColor = System.Drawing.Color.Yellow;
-            this.btn_update.Location = new System.Drawing.Point(70, 293);
+            this.btn_update.Location = new System.Drawing.Point(70, 358);
             this.btn_update.Name = "btn_update";
             this.btn_update.Size = new System.Drawing.Size(75, 23);
             this.btn_update.TabIndex = 9;
@@ -175,7 +178,7 @@
             // btn_new
             // 
             this.btn_new.BackColor = System.Drawing.Color.Blue;
-            this.btn_new.Location = new System.Drawing.Point(173, 255);
+            this.btn_new.Location = new System.Drawing.Point(173, 320);
             this.btn_new.Name = "btn_new";
             this.btn_new.Size = new System.Drawing.Size(75, 23);
             this.btn_new.TabIndex = 12;
@@ -183,12 +186,50 @@
             this.btn_new.UseVisualStyleBackColor = false;
             this.btn_new.Click += new System.EventHandler(this.btn_new_Click);
             // 
+            // lbl_checkemp
+            // 
+            this.lbl_checkemp.AutoSize = true;
+            this.lbl_checkemp.Font = new System.Drawing.Font("Maiandra GD", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_checkemp.ForeColor = System.Drawing.Color.White;
+            this.lbl_checkemp.Location = new System.Drawing.Point(39, 205);
+            this.lbl_checkemp.Name = "lbl_checkemp";
+            this.lbl_checkemp.Size = new System.Drawing.Size(52, 16);
+            this.lbl_checkemp.TabIndex = 15;
+            this.lbl_checkemp.Text = "Are U?";
+            // 
+            // rb_fresher
+            // 
+            this.rb_fresher.AutoSize = true;
+            this.rb_fresher.Location = new System.Drawing.Point(121, 203);
+            this.rb_fresher.Name = "rb_fresher";
+            this.rb_fresher.Size = new System.Drawing.Size(60, 17);
+            this.rb_fresher.TabIndex = 16;
+            this.rb_fresher.TabStop = true;
+            this.rb_fresher.Text = "Fresher";
+            this.rb_fresher.UseVisualStyleBackColor = true;
+            this.rb_fresher.CheckedChanged += new System.EventHandler(this.rb_fresher_CheckedChanged);
+            // 
+            // rb_exp
+            // 
+            this.rb_exp.AutoSize = true;
+            this.rb_exp.Location = new System.Drawing.Point(188, 203);
+            this.rb_exp.Name = "rb_exp";
+            this.rb_exp.Size = new System.Drawing.Size(84, 17);
+            this.rb_exp.TabIndex = 17;
+            this.rb_exp.TabStop = true;
+            this.rb_exp.Text = "Experienced";
+            this.rb_exp.UseVisualStyleBackColor = true;
+            this.rb_exp.CheckedChanged += new System.EventHandler(this.rb_exp_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.rb_exp);
+            this.Controls.Add(this.rb_fresher);
+            this.Controls.Add(this.lbl_checkemp);
             this.Controls.Add(this.btn_new);
             this.Controls.Add(this.txt_id);
             this.Controls.Add(this.label4);
@@ -227,6 +268,9 @@
         private System.Windows.Forms.TextBox txt_id;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btn_new;
+        private System.Windows.Forms.Label lbl_checkemp;
+        private System.Windows.Forms.RadioButton rb_fresher;
+        private System.Windows.Forms.RadioButton rb_exp;
     }
 }
 

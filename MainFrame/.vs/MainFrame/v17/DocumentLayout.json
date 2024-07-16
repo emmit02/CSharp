@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\MainFrame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|c:\\users\\dell\\source\\repos\\mainframe\\mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|solutionrelative:mainframe\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17896CF2-3847-4708-B065-A033F31422BE}|MainFrame\\MainFrame.csproj|C:\\Users\\DELL\\source\\repos\\MainFrame\\mainframe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\RegisterForm.cs",
               "RelativeDocumentMoniker": "MainFrame\\RegisterForm.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\RegisterForm.cs",
               "RelativeToolTip": "MainFrame\\RegisterForm.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAQwFEAAAA5AAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwGAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T09:17:26.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegisterForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\RegisterForm.cs",
               "RelativeDocumentMoniker": "MainFrame\\RegisterForm.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Login.cs",
               "RelativeDocumentMoniker": "MainFrame\\Login.cs",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MainFrame\\MainFrame\\Login.cs",
               "RelativeDocumentMoniker": "MainFrame\\Login.cs",

@@ -14,6 +14,8 @@ namespace datagrid_learn
     {
         DataTable table = new DataTable("table");
         int index;
+        private string position ;
+        private string salary;
         public Form1()
         {
             InitializeComponent();
@@ -21,10 +23,16 @@ namespace datagrid_learn
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
+            //rb_fresher.Checked = true;
+
             table.Columns.Add("ID", Type.GetType("System.Int32"));
             table.Columns.Add("First_name", Type.GetType("System.String"));
             table.Columns.Add("Mobile", Type.GetType("System.Int32"));
             table.Columns.Add("Address", Type.GetType("System.String"));
+            table.Columns.Add("Position", Type.GetType("System.String"));
+            table.Columns.Add("Salary", Type.GetType("System.String"));
+
 
             dgv_contacts.DataSource=table;
         }
@@ -38,7 +46,7 @@ namespace datagrid_learn
 
         private void btn_save_Click(object sender, EventArgs e)
         {
-            table.Rows.Add(txt_id.Text ,txt_name.Text ,txt_mobile.Text ,txt_address.Text);
+            table.Rows.Add(txt_id.Text ,txt_name.Text ,txt_mobile.Text ,txt_address.Text ,position , salary);
         }
 
         private void btn_new_Click(object sender, EventArgs e)
@@ -47,6 +55,10 @@ namespace datagrid_learn
             txt_name.Text = String.Empty;
             txt_mobile.Text = String.Empty;
             txt_address.Text = String.Empty;
+            position = String.Empty;
+            salary = String.Empty;
+
+
         }
 
         private void dgv_contacts_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -57,6 +69,8 @@ namespace datagrid_learn
             txt_name.Text = row.Cells[1].Value.ToString();
             txt_mobile.Text = row.Cells[2].Value.ToString();
             txt_address.Text = row.Cells[3].Value.ToString();
+            position = row.Cells[4].Value.ToString();
+            salary = row.Cells[5].Value.ToString();
         }
 
         private void btn_update_Click(object sender, EventArgs e)
@@ -66,12 +80,34 @@ namespace datagrid_learn
             newData.Cells[1].Value = txt_name.Text;
             newData.Cells[2].Value = txt_mobile.Text;
             newData.Cells[3].Value = txt_address.Text;
+            newData.Cells[4].Value = position;
+            newData.Cells[5].Value = salary;
         }
 
         private void dgv_contacts_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
            /* this.dgv_contacts.DefaultCellStyle.SelectionForeColor = Color.Black;
             this.dgv_contacts.DefaultCellStyle.SelectionBackColor = Color.White;*/
+        }
+
+        private void rb_fresher_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rb_fresher.Checked)
+            {
+                rb_exp.Checked = false;
+                position = "Fresher";
+                salary = "400000";
+            }
+        }
+
+        private void rb_exp_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rb_exp.Checked)
+            {
+                rb_fresher.Checked = false;
+                position = "Experienced";
+                salary = "800000";
+            }
         }
     }
 }
