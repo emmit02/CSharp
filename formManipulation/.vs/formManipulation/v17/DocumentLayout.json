@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\formManipulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|c:\\users\\dell\\source\\repos\\formmanipulation\\formmanipulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\datagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|c:\\users\\dell\\source\\repos\\formmanipulation\\formmanipulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|c:\\users\\dell\\source\\repos\\formmanipulation\\formmanipulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\framez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\Form1.cs",
+              "RelativeDocumentMoniker": "formManipulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\Form1.cs",
+              "RelativeToolTip": "formManipulation\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:15:23.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\Program.cs",
               "RelativeDocumentMoniker": "formManipulation\\Program.cs",
@@ -54,11 +71,12 @@
               "RelativeToolTip": "formManipulation\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T07:23:24.364Z"
+              "WhenOpened": "2024-07-11T07:23:24.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "dataGridView.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\dataGridView.cs",
               "RelativeDocumentMoniker": "formManipulation\\dataGridView.cs",
@@ -66,35 +84,37 @@
               "RelativeToolTip": "formManipulation\\dataGridView.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAuwBUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T07:21:43.258Z"
+              "WhenOpened": "2024-07-11T07:21:43.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\Person.cs",
               "RelativeDocumentMoniker": "formManipulation\\Person.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\Person.cs",
               "RelativeToolTip": "formManipulation\\Person.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T07:04:54.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "dataGridView.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\dataGridView.cs",
               "RelativeDocumentMoniker": "formManipulation\\dataGridView.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\dataGridView.cs [Design]",
               "RelativeToolTip": "formManipulation\\dataGridView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T07:02:03.473Z"
+              "WhenOpened": "2024-07-11T07:02:03.473Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\Form1.cs",
               "RelativeDocumentMoniker": "formManipulation\\Form1.cs",
@@ -119,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frameZ.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\frameZ.cs",
               "RelativeDocumentMoniker": "formManipulation\\frameZ.cs",

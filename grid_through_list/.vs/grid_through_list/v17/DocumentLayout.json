@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5187609D-6767-4173-B616-17A18AC8B298}|grid_through_list\\grid_through_list.csproj|c:\\users\\dell\\source\\repos\\grid_through_list\\grid_through_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5187609D-6767-4173-B616-17A18AC8B298}|grid_through_list\\grid_through_list.csproj|solutionrelative:grid_through_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5187609D-6767-4173-B616-17A18AC8B298}|grid_through_list\\grid_through_list.csproj|C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5187609D-6767-4173-B616-17A18AC8B298}|grid_through_list\\grid_through_list.csproj|solutionrelative:grid_through_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5187609D-6767-4173-B616-17A18AC8B298}|grid_through_list\\grid_through_list.csproj|c:\\users\\dell\\source\\repos\\grid_through_list\\grid_through_list\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5187609D-6767-4173-B616-17A18AC8B298}|grid_through_list\\grid_through_list.csproj|solutionrelative:grid_through_list\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5187609D-6767-4173-B616-17A18AC8B298}|grid_through_list\\grid_through_list.csproj|c:\\users\\dell\\source\\repos\\grid_through_list\\grid_through_list\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5187609D-6767-4173-B616-17A18AC8B298}|grid_through_list\\grid_through_list.csproj|solutionrelative:grid_through_list\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "grid_through_list\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\Form1.Designer.cs",
+              "RelativeToolTip": "grid_through_list\\Form1.Designer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAvwDUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:11:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\Form1.cs",
+              "RelativeDocumentMoniker": "grid_through_list\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\Form1.cs",
+              "RelativeToolTip": "grid_through_list\\Form1.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:29:48.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\Person.cs",
+              "RelativeDocumentMoniker": "grid_through_list\\Person.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\Person.cs",
+              "RelativeToolTip": "grid_through_list\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:13:50.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\Form1.cs",
+              "RelativeDocumentMoniker": "grid_through_list\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\grid_through_list\\grid_through_list\\Form1.cs [Design]",
+              "RelativeToolTip": "grid_through_list\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:05:33.712Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
