@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\bin\Debug\net8.0-windows\grid_through_list.exe
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\bin\Debug\net8.0-windows\grid_through_list.deps.json
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\bin\Debug\net8.0-windows\grid_through_list.runtimeconfig.json
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\bin\Debug\net8.0-windows\grid_through_list.dll
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\bin\Debug\net8.0-windows\grid_through_list.pdb
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.Form1.resources
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.AssemblyInfo.cs
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.sourcelink.json
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.dll
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\refint\grid_through_list.dll
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.pdb
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\grid_through_list.genruntimeconfig.cache
+C:\Users\DELL\source\repos\grid_through_list\grid_through_list\obj\Debug\net8.0-windows\ref\grid_through_list.dll

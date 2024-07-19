@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\XCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|c:\\users\\dell\\source\\repos\\xcars\\xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|c:\\users\\dell\\source\\repos\\xcars\\xcars\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|c:\\users\\dell\\source\\repos\\xcars\\xcars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|c:\\users\\dell\\source\\repos\\xcars\\xcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|C:\\Users\\DELL\\source\\repos\\XCars\\xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Program.cs",
+              "RelativeDocumentMoniker": "XCars\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Program.cs",
+              "RelativeToolTip": "XCars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:04:03.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Form1.cs",
+              "RelativeDocumentMoniker": "XCars\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Form1.cs [Design]",
+              "RelativeToolTip": "XCars\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:03:54.747Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "XCars\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.Designer.cs",
+              "RelativeToolTip": "XCars\\Main.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:03:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.cs",
+              "RelativeDocumentMoniker": "XCars\\Main.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.cs",
+              "RelativeToolTip": "XCars\\Main.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA9wEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:30:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.cs",
+              "RelativeDocumentMoniker": "XCars\\Main.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.cs [Design]",
+              "RelativeToolTip": "XCars\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:23:57.447Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
