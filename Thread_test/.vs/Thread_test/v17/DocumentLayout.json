@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Thread_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|c:\\users\\dell\\source\\repos\\thread_test\\thread_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|solutionrelative:thread_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|C:\\Users\\DELL\\source\\repos\\Thread_test\\thread_test\\myobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|solutionrelative:thread_test\\myobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|C:\\Users\\DELL\\source\\repos\\Thread_test\\thread_test\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|solutionrelative:thread_test\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|C:\\Users\\DELL\\source\\repos\\Thread_test\\thread_test\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|solutionrelative:thread_test\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|C:\\Users\\DELL\\source\\repos\\Thread_test\\thread_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C2D1497-2E66-42BC-BD7D-76122BBD6C7E}|Thread_test\\Thread_test.csproj|solutionrelative:thread_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 136,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Myobject.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Myobject.cs",
+              "RelativeDocumentMoniker": "Thread_test\\Myobject.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Myobject.cs",
+              "RelativeToolTip": "Thread_test\\Myobject.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwEkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:14:01.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Program.cs",
+              "RelativeDocumentMoniker": "Thread_test\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Program.cs",
+              "RelativeToolTip": "Thread_test\\Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAswHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:57:32.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Main.cs",
+              "RelativeDocumentMoniker": "Thread_test\\Main.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Main.cs",
+              "RelativeToolTip": "Thread_test\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:52:39.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Main.cs",
+              "RelativeDocumentMoniker": "Thread_test\\Main.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Main.cs [Design]",
+              "RelativeToolTip": "Thread_test\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:39:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Form1.cs",
+              "RelativeDocumentMoniker": "Thread_test\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Thread_test\\Thread_test\\Form1.cs [Design]",
+              "RelativeToolTip": "Thread_test\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:35:38.169Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

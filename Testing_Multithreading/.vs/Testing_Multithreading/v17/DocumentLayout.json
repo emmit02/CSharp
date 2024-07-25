@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D804854D-2A05-4BB7-9798-6D73751BDBCB}|Testing_Multithreading\\Testing_Multithreading.csproj|c:\\users\\dell\\source\\repos\\testing_multithreading\\testing_multithreading\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D804854D-2A05-4BB7-9798-6D73751BDBCB}|Testing_Multithreading\\Testing_Multithreading.csproj|solutionrelative:testing_multithreading\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D804854D-2A05-4BB7-9798-6D73751BDBCB}|Testing_Multithreading\\Testing_Multithreading.csproj|c:\\users\\dell\\source\\repos\\testing_multithreading\\testing_multithreading\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D804854D-2A05-4BB7-9798-6D73751BDBCB}|Testing_Multithreading\\Testing_Multithreading.csproj|solutionrelative:testing_multithreading\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D804854D-2A05-4BB7-9798-6D73751BDBCB}|Testing_Multithreading\\Testing_Multithreading.csproj|c:\\users\\dell\\source\\repos\\testing_multithreading\\testing_multithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D804854D-2A05-4BB7-9798-6D73751BDBCB}|Testing_Multithreading\\Testing_Multithreading.csproj|solutionrelative:testing_multithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D804854D-2A05-4BB7-9798-6D73751BDBCB}|Testing_Multithreading\\Testing_Multithreading.csproj|c:\\users\\dell\\source\\repos\\testing_multithreading\\testing_multithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D804854D-2A05-4BB7-9798-6D73751BDBCB}|Testing_Multithreading\\Testing_Multithreading.csproj|solutionrelative:testing_multithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 136,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\Testing_Multithreading\\MainForm.cs",
+              "RelativeDocumentMoniker": "Testing_Multithreading\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\Testing_Multithreading\\MainForm.cs",
+              "RelativeToolTip": "Testing_Multithreading\\MainForm.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswEQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:29:25.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\Testing_Multithreading\\MainForm.cs",
+              "RelativeDocumentMoniker": "Testing_Multithreading\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\Testing_Multithreading\\MainForm.cs [Design]",
+              "RelativeToolTip": "Testing_Multithreading\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:28:22.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\Testing_Multithreading\\Form1.cs",
+              "RelativeDocumentMoniker": "Testing_Multithreading\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\Testing_Multithreading\\Form1.cs",
+              "RelativeToolTip": "Testing_Multithreading\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:22:38.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\Testing_Multithreading\\Form1.cs",
+              "RelativeDocumentMoniker": "Testing_Multithreading\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Testing_Multithreading\\Testing_Multithreading\\Form1.cs [Design]",
+              "RelativeToolTip": "Testing_Multithreading\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:17:52.823Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 264,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
