@@ -1,13 +1,14 @@
 C:\Users\DELL\source\repos\XCars\XCars\bin\Debug\XCars.exe.config
 C:\Users\DELL\source\repos\XCars\XCars\bin\Debug\XCars.exe
 C:\Users\DELL\source\repos\XCars\XCars\bin\Debug\XCars.pdb
+C:\Users\DELL\source\repos\XCars\XCars\bin\Debug\Guna.UI2.dll
 C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.csproj.AssemblyReference.cache
 C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.Form1.resources
+C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.Load.resources
+C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.Main.resources
 C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.Properties.Resources.resources
 C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.csproj.GenerateResource.cache
 C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.csproj.Up2Date
 C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.exe
 C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.pdb
-C:\Users\DELL\source\repos\XCars\XCars\bin\Debug\Guna.UI2.dll
-C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.Main.resources
-C:\Users\DELL\source\repos\XCars\XCars\obj\Debug\XCars.csproj.Up2Date

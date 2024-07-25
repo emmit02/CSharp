@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\HostelMgmtLearn\HostelMgmtLearn\obj\Debug\HostelMgmtLearn.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\HostelMgmtLearn\HostelMgmtLearn\obj\Debug\HostelMgmtLearn.Form1.resources
+C:\Users\DELL\source\repos\HostelMgmtLearn\HostelMgmtLearn\obj\Debug\HostelMgmtLearn.Properties.Resources.resources
+C:\Users\DELL\source\repos\HostelMgmtLearn\HostelMgmtLearn\obj\Debug\HostelMgmtLearn.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\HostelMgmtLearn\HostelMgmtLearn\obj\Debug\HostelMgmtLearn.csproj.CoreCompileInputs.cache
