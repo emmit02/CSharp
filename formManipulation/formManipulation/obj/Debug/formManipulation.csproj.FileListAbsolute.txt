@@ -9,3 +9,4 @@ C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManip
 C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.exe
 C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.pdb
 C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.dataGridView.resources
+C:\Users\DELL\source\repos\formManipulation\formManipulation\obj\Debug\formManipulation.data_add.resources

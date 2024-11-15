@@ -45,7 +45,7 @@
             this.percent_load.BackColor = System.Drawing.Color.Transparent;
             this.percent_load.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.percent_load.ForeColor = System.Drawing.Color.Silver;
-            this.percent_load.Location = new System.Drawing.Point(44, 43);
+            this.percent_load.Location = new System.Drawing.Point(41, 44);
             this.percent_load.Name = "percent_load";
             this.percent_load.Size = new System.Drawing.Size(10, 18);
             this.percent_load.TabIndex = 2;
@@ -116,6 +116,7 @@
             this.guna2Button1.Size = new System.Drawing.Size(180, 45);
             this.guna2Button1.TabIndex = 7;
             this.guna2Button1.Text = "Let\'s Go!";
+            this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click);
             // 
             // backgroundWorker1
             // 

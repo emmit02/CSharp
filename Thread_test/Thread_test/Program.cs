@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 namespace Thread_test
 {
-    /*internal static class Program
+    internal static class Program
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,9 +16,9 @@ namespace Thread_test
         [STAThread]
         static void Main()
         {
-            *//*Application.EnableVisualStyles();
+            Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());*//*
+            Application.Run(new Form1());
 
             Task task = new Task(() =>
             {
@@ -36,9 +36,14 @@ namespace Thread_test
             return a + b;
         }
 
-    }*/
+    }
 
-    public class Myobject
+
+
+    //another program
+
+
+    /*public class Myobject
     {
         int _index;
         int pCount;
@@ -86,11 +91,11 @@ namespace Thread_test
             Program.count++;
             if (Program.count == 3)
             {
-                Program.stopWatch.Stop();
+             *//*   Program.stopWatch.Stop();
                 TimeSpan ts = Program.stopWatch.Elapsed;
 
                 string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}", ts.Hours, ts.Minutes, ts.Seconds, ts.Milliseconds / 10);
-                Console.WriteLine("Runtime: " + elapsedTime);
+                Console.WriteLine("Runtime: " + elapsedTime);*//*
             }
 
         }
@@ -125,5 +130,27 @@ namespace Thread_test
             Console.WriteLine("Runtime: " + elapsedTime);
         }
 
-    }
+    }*/
+
+    /*public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var th = new Thread(PrintFromThread);
+            th.Name = "Child Thread";
+            th.Start();
+
+            th.Join();
+
+            Thread.CurrentThread.Name = "Main Thread";
+            Console.WriteLine($"Print from{Thread.CurrentThread.Name}");
+        }
+
+        private static void  PrintFromThread()
+        {
+            Thread.Sleep(5000);
+            Console.WriteLine($"Print from{Thread.CurrentThread.Name}");
+        }
+
+    }*/
 }

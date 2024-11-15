@@ -52,6 +52,12 @@
     <Compile Include="dataGridView.Designer.cs">
       <DependentUpon>dataGridView.cs</DependentUpon>
     </Compile>
+    <Compile Include="data_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="data_add.Designer.cs">
+      <DependentUpon>data_add.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="dataGridView.resx">
       <DependentUpon>dataGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data_add.resx">
+      <DependentUpon>data_add.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

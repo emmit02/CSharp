@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Csharp Keywords\Sockets.Server\bin\Debug\Sockets.Server.exe.config
+C:\Users\DELL\source\repos\Csharp Keywords\Sockets.Server\bin\Debug\Sockets.Server.exe
+C:\Users\DELL\source\repos\Csharp Keywords\Sockets.Server\bin\Debug\Sockets.Server.pdb
+C:\Users\DELL\source\repos\Csharp Keywords\Sockets.Server\obj\Debug\Sockets.Server.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Csharp Keywords\Sockets.Server\obj\Debug\Sockets.Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Csharp Keywords\Sockets.Server\obj\Debug\Sockets.Server.exe
+C:\Users\DELL\source\repos\Csharp Keywords\Sockets.Server\obj\Debug\Sockets.Server.pdb

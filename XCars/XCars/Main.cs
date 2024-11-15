@@ -16,9 +16,10 @@ namespace XCars
     {
         
         private Load loadingForm;
-
+        
         public Main()
         {
+            
             InitializeComponent();
         }
 
@@ -92,18 +93,22 @@ namespace XCars
 
         protected override void OnLoad(EventArgs e)
         {
-            
+
             base.OnLoad(e);
             // Hide the main form initially
             this.Visible = false;
 
+
+
+
             // Show the loading form
             loadingForm = new Load();
-            loadingForm.Show();                                   //ShowDialog()  is used for only showing the whole dialogue box but it pauses the asynchronicy 
-            //loadingForm.BringToFront();
-            // Start the background worker
             backgroundWorker1.RunWorkerAsync();
-            
+            loadingForm.Show();                                   //ShowDialog()  is used for only showing the whole dialogue box but it pauses the asynchronicy 
+            loadingForm.BringToFront();
+            // Start the background worker
+           
+
         }
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
@@ -127,13 +132,13 @@ namespace XCars
             }
 
             // Show the main form
-            this.Visible = false;
+            this.Visible = true;
         }
 
         private void Main_Load(object sender, EventArgs e)
         {
             
-        }
+        } 
 
 
 

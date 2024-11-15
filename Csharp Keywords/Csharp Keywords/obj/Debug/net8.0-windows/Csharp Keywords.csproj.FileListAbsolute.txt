@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp_Keywords.Form1.resources
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.sourcelink.json
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\bin\Debug\net8.0-windows\Csharp Keywords.exe
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\bin\Debug\net8.0-windows\Csharp Keywords.deps.json
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\bin\Debug\net8.0-windows\Csharp Keywords.runtimeconfig.json
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\bin\Debug\net8.0-windows\Csharp Keywords.dll
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\bin\Debug\net8.0-windows\Csharp Keywords.pdb
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.dll
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\refint\Csharp Keywords.dll
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.pdb
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\Csharp Keywords.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Csharp Keywords\Csharp Keywords\obj\Debug\net8.0-windows\ref\Csharp Keywords.dll

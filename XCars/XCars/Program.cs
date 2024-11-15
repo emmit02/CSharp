@@ -9,8 +9,8 @@ using System.ComponentModel;
 namespace XCars
 {
     internal static class Program
-    {   
-        
+    {
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -19,8 +19,10 @@ namespace XCars
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Main());
 
-            /*Load load = new Load();
+            /*Application.Run(new Main());
+            *//*Load load = new Load();
             //load.Show();
 
             Thread bg = new Thread(() =>
@@ -35,10 +37,38 @@ namespace XCars
 
             });
             bg.IsBackground = true;
-            bg.Start();*/
+            bg.Start();*//*
+*/
 
-            Application.Run(new Main());
-            
+
+
+
         }
+
+        
+        /*public static void Main(string[] args)
+        {
+            Load load = new Load();
+            Main main = new Main();
+
+            var th = new Thread(PrintFromThread);
+            th.Name = "Child Thread";
+            th.Start();
+
+            th.Join();
+            Application.Run(new Main());
+            Thread.CurrentThread.Name = "Main Thread";
+            if(load.Visible  == false)
+            {
+                main.Visible = true;
+            }
+        }
+
+        private static void  PrintFromThread()
+        {
+            Thread.Sleep(5000);
+            Application.Run(new Load());
+
+        }*/
     }
 }

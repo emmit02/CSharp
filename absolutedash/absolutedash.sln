@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "absolutedash", "absolutedash\absolutedash.csproj", "{65F4B98A-CBD9-492B-B4F1-42D2A82443BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F4B98A-CBD9-492B-B4F1-42D2A82443BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F4B98A-CBD9-492B-B4F1-42D2A82443BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F4B98A-CBD9-492B-B4F1-42D2A82443BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F4B98A-CBD9-492B-B4F1-42D2A82443BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8F8718-8645-47A3-BBF9-E5B5AF77AB13}
+	EndGlobalSection
+EndGlobal
