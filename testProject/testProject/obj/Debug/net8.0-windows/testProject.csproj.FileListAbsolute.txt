@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\testProject\testProject\bin\Debug\net8.0-windows\testProject.exe
+C:\Users\DELL\source\repos\testProject\testProject\bin\Debug\net8.0-windows\testProject.deps.json
+C:\Users\DELL\source\repos\testProject\testProject\bin\Debug\net8.0-windows\testProject.runtimeconfig.json
+C:\Users\DELL\source\repos\testProject\testProject\bin\Debug\net8.0-windows\testProject.dll
+C:\Users\DELL\source\repos\testProject\testProject\bin\Debug\net8.0-windows\testProject.pdb
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.Form1.resources
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.AssemblyInfo.cs
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.sourcelink.json
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.dll
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\refint\testProject.dll
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.pdb
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\testProject.genruntimeconfig.cache
+C:\Users\DELL\source\repos\testProject\testProject\obj\Debug\net8.0-windows\ref\testProject.dll

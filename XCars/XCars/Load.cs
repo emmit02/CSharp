@@ -46,12 +46,13 @@ namespace XCars
                 percent_load.Text = loader_bar.Value.ToString() + "%";
 
             }
-            else
-            {
-                //MessageBox.Show("Done");
-                this.Hide();
-            }
 
+
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
         }
     }
 }
