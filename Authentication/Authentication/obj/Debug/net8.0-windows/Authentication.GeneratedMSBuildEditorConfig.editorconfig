@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Authentication
-build_property.ProjectDir = C:\Users\DELL\source\repos\Authentication\Authentication\
+build_property.ProjectDir = D:\SVV\scanner_test_self\repos\Authentication\Authentication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

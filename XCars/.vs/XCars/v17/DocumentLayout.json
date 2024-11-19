@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\XCars\\",
+  "WorkspaceRootPath": "D:\\SVV\\scanner_test_self\\repos\\XCars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|c:\\users\\dell\\source\\repos\\xcars\\xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|C:\\Users\\DELL\\source\\repos\\XCars\\xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|D:\\SVV\\scanner_test_self\\repos\\XCars\\xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|C:\\Users\\DELL\\source\\repos\\XCars\\xcars\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|D:\\SVV\\scanner_test_self\\repos\\XCars\\xcars\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|d:\\svv\\scanner_test_self\\repos\\xcars\\xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|D:\\SVV\\scanner_test_self\\repos\\XCars\\xcars\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|C:\\Users\\DELL\\source\\repos\\XCars\\xcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|D:\\SVV\\scanner_test_self\\repos\\XCars\\xcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|C:\\Users\\DELL\\source\\repos\\XCars\\xcars\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|D:\\SVV\\scanner_test_self\\repos\\XCars\\xcars\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|C:\\Users\\DELL\\source\\repos\\XCars\\xcars\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB8B77F-F892-4EE0-9490-D2077E5ED432}|XCars\\XCars.csproj|solutionrelative:xcars\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +38,25 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
         {
           "DockedHeight": 264,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Load.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Load.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Load.cs",
               "RelativeDocumentMoniker": "XCars\\Load.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Load.cs",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Load.cs",
               "RelativeToolTip": "XCars\\Load.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAwwDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,28 +64,25 @@
               "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Main.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.Designer.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Main.Designer.cs",
               "RelativeDocumentMoniker": "XCars\\Main.Designer.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.Designer.cs",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Main.Designer.cs",
               "RelativeToolTip": "XCars\\Main.Designer.cs",
-              "ViewState": "AQIAAKMCAAAAAAAAAAAmwE8EAAAiAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T11:08:34.418Z"
+              "WhenOpened": "2024-07-25T11:08:34.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Program.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Program.cs",
               "RelativeDocumentMoniker": "XCars\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Program.cs",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Program.cs",
               "RelativeToolTip": "XCars\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAwwBsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,38 +90,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Main.cs",
               "RelativeDocumentMoniker": "XCars\\Main.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.cs",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Main.cs",
               "RelativeToolTip": "XCars\\Main.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGcAAAAkAAAA",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T10:37:02.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Load.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Load.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Load.cs",
               "RelativeDocumentMoniker": "XCars\\Load.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Load.cs [Design]",
-              "RelativeToolTip": "XCars\\Load.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T06:07:09.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Main.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Main.cs",
               "RelativeDocumentMoniker": "XCars\\Main.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\XCars\\XCars\\Main.cs [Design]",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\XCars\\XCars\\Main.cs [Design]",
               "RelativeToolTip": "XCars\\Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T05:23:57.447Z"
+              "WhenOpened": "2024-07-19T05:23:57.447Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\formManipulation\\",
+  "WorkspaceRootPath": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|c:\\users\\dell\\source\\repos\\formmanipulation\\formmanipulation\\data_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\data_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|C:\\Users\\DELL\\source\\repos\\formManipulation\\formmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|c:\\users\\dell\\source\\repos\\formmanipulation\\formmanipulation\\data_add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formmanipulation\\data_add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\data_add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|c:\\users\\dell\\source\\repos\\formmanipulation\\formmanipulation\\data_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formmanipulation\\data_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\data_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|d:\\svv\\scanner_test_self\\repos\\formmanipulation\\formmanipulation\\data_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\data_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F156F36F-919C-4340-B9B3-BD82956E0D10}|formManipulation\\formManipulation.csproj|solutionrelative:formmanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "data_add.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\data_add.Designer.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formManipulation\\data_add.Designer.cs",
               "RelativeDocumentMoniker": "formManipulation\\data_add.Designer.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\data_add.Designer.cs*",
-              "RelativeToolTip": "formManipulation\\data_add.Designer.cs*",
-              "ViewState": "AQIAADQAAAAAAAAAAAAiwEYAAAA7AAAA",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formManipulation\\data_add.Designer.cs",
+              "RelativeToolTip": "formManipulation\\data_add.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAGAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T06:17:28.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "data_add.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\data_add.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formManipulation\\data_add.cs",
               "RelativeDocumentMoniker": "formManipulation\\data_add.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\data_add.cs*",
-              "RelativeToolTip": "formManipulation\\data_add.cs*",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBcAAAAFAAAA",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formManipulation\\data_add.cs",
+              "RelativeToolTip": "formManipulation\\data_add.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T05:53:36.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\Program.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formManipulation\\Program.cs",
               "RelativeDocumentMoniker": "formManipulation\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\Program.cs",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formManipulation\\Program.cs",
               "RelativeToolTip": "formManipulation\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T07:23:24.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T07:23:24.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "data_add.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\data_add.cs",
+              "DocumentMoniker": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formManipulation\\data_add.cs",
               "RelativeDocumentMoniker": "formManipulation\\data_add.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\formManipulation\\formManipulation\\data_add.cs [Design]*",
-              "RelativeToolTip": "formManipulation\\data_add.cs [Design]*",
+              "ToolTip": "D:\\SVV\\scanner_test_self\\repos\\formManipulation\\formManipulation\\data_add.cs [Design]",
+              "RelativeToolTip": "formManipulation\\data_add.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T05:26:54.427Z",
               "EditorCaption": " [Design]"

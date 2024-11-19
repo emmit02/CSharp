@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\Authentication\\Authentication\\Authentication.csproj": {}
+    "D:\\SVV\\scanner_test_self\\repos\\Authentication\\Authentication\\Authentication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\Authentication\\Authentication\\Authentication.csproj": {
+    "D:\\SVV\\scanner_test_self\\repos\\Authentication\\Authentication\\Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+        "projectUniqueName": "D:\\SVV\\scanner_test_self\\repos\\Authentication\\Authentication\\Authentication.csproj",
         "projectName": "Authentication",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+        "projectPath": "D:\\SVV\\scanner_test_self\\repos\\Authentication\\Authentication\\Authentication.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\Authentication\\Authentication\\obj\\",
+        "outputPath": "D:\\SVV\\scanner_test_self\\repos\\Authentication\\Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
